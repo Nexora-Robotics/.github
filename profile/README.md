@@ -1,6 +1,22 @@
 <div align="center">
 
-# <img src="NEXORA LOGO.png" width="120" alt="Nexora Robotics Logo"/>
+<p align="center">
+  <img src="./banner.png" alt="Nexora Robotics Banner" width="100%">
+</p>
+
+<p align="center">
+  <img src="./logo.png" alt="Nexora Robotics Logo" width="140">
+</p>
+
+<h1 align="center">Nexora Robotics</h1>
+
+<h3 align="center">
+Engineering Intelligent Machines.
+</h3>
+
+<p align="center">
+Building open-source robotics, AI, and autonomous systems through practical engineering and innovation.
+</p>
 
 # Nexora Robotics
 
