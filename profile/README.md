@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="../logo.png" width="120" alt="Nexora Robotics Logo"/>
+# <img src="NEXORA LOGO.png" width="120" alt="Nexora Robotics Logo"/>
 
 # Nexora Robotics
 
